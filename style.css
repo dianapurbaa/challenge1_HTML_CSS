@@ -1,0 +1,96 @@
+body{
+    background-color: #DCDCDC;
+}
+.utama{
+    position: relative;
+}
+.kotak{
+    background: linear-gradient(to right, #FFE4B5, #FFDAB9);
+    margin-bottom: 100px;
+    height: 100px;
+    text-align: center;
+}
+
+.link{
+    margin-left: 75%;
+    margin-top: -80px;
+}
+
+.link ul li a{
+    margin-left: 20px;
+    font-size: 25px;
+}
+
+ul{
+    list-style-type: none;
+}
+.kotak1{
+    background: #FFE4B5;
+    margin-top: 25px; 
+    height: 60px;
+    padding-top: 25px;
+   
+}
+.kotak1 label{
+    margin-left: 85%;
+    align-items: center;
+    color: black;
+    font-size: 30px;
+    margin-left: 65%;
+}
+.kotak1 input{
+    height: 30px;
+    width: 400px;
+}
+.kotak1 button{
+    height: 35px;
+    width: 100px
+}
+h1{
+    text-align: center;
+    padding-top: 10px;
+}
+
+.kotak2{
+    background-color: #FFE4B5;
+    position: relative;
+    margin-right: 100px;
+    border: 1px solid #FFE4B5;
+    width: 400px;
+    height: 600px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.kotak2 ul{
+    margin-top: 200px;
+    margin-right: 50px;
+}
+
+.kotak2 ul li{
+border: 1px solid;
+margin-bottom: 20px; 
+font-size: 30px;
+}
+
+.kotak3{
+    border : 1px solid #FFE4B5;
+    background-color: #FFE4B5;
+    margin-left: 420px;
+    margin-bottom: 20px;
+    margin-top: -622px;
+    height: 600px;
+
+}
+
+h2{
+    text-align: center;
+}
+footer{
+    padding: 1px;
+    color: black;
+    background: linear-gradient(to right, #FFDAB9, #FFE4B5 );
+    text-align: center;
+}
+footer p{
+    font-size: 30px;
+}
